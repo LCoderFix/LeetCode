@@ -8,6 +8,8 @@
 ---
 ### 1.Array
 
+* Easy
+   * 1051
 
 
 ### 2.String
